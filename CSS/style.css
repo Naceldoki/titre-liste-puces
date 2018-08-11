@@ -1,0 +1,9 @@
+h1{
+    color: red;
+    text-transform: uppercase;
+}
+
+li{
+    list-style-type: square; 
+    color:black;
+}
